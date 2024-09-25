@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Islam Tarek
 - 👀 I’m interested in aerospace
-- 🌱 I’m currently learning electronics in faculty of engineering, Helwan University
+- 🌱 I’m currently studying electronics and communication engineering
 - 📫 How to reach me --> Send me a message on this email (islam.my01@gmail.com)
 
 <!---
