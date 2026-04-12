@@ -6,4 +6,4 @@
 
 and
 
-![](/home/islam-tarek-moawad/Documents/projects/IslamHUFE/1.jpg)
+![](/IslamHUFE/1.jpg)
