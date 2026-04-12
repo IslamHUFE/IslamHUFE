@@ -6,4 +6,4 @@
 
 and
 
-![me](IslamHUFE/1.jpg)
+![me](imgs/1.jpg)
