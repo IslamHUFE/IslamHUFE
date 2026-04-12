@@ -6,4 +6,4 @@
 
 and
 
-![me](imgs/2.jpg)
+![me](imgs/2.png)
