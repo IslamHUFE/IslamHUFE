@@ -11,6 +11,20 @@ and
 
 ## Tools (not a professional in some of them, but I'm learning)
 
+### coding
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash,linux,debian,ubuntu,arch,git,github,obsidian,unity,gcp,vscode," />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash,vscode,unity" />
+</p>
+
+### operating systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch" />
+</p>
+
+### project management
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,obsidian,gcp" />
 </p>
