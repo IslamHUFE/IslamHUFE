@@ -20,7 +20,7 @@ and
 ### operating systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch,windows" />
 </p>
 
 ### project management
