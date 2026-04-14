@@ -11,19 +11,27 @@ and
 
 ## Tools (not a professional in some of them, but I'm learning)
 
-### coding
+### Coding
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash,vscode,unity" />
 </p>
 
-### operating systems
+### Electronics and systems
+<div align="center">
+  <img src="./imgs/cadence.png" width="50" alt="Cadence">
+  <img src="./imgs/KiCAD.png" width="50" alt="KiCAD">
+  <img src="./imgs/multisim.png" width="50" alt="Multisim">
+  <img src="./imgs/simulink.png" width="50" alt="Simulink">
+</div>
+
+### Operating systems
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch,windows" />
 </p>
 
-### project management
+### Project management
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,obsidian,gcp" />
