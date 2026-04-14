@@ -18,7 +18,7 @@ and
 </p>
 
 ### Electronics and systems
-<div align="center">
+<div align="left">
   <img src="./imgs/cadence.png" width="50" alt="Cadence">
   <img src="./imgs/KiCAD.png" width="50" alt="KiCAD">
   <img src="./imgs/multisim.png" width="50" alt="Multisim">
