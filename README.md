@@ -23,6 +23,11 @@ and
   <img src="./imgs/KiCAD.png" width="50" alt="KiCAD">
   <img src="./imgs/multisim.png" width="50" alt="Multisim">
   <img src="./imgs/simulink.png" width="50" alt="Simulink">
+  <img src="./imgs/images.jpeg" width="50" alt="LTspice">
+  <img src="./imgs/Qucs.png" width="50" alt="Qucs">
+  <img src="./imgs/Proteus.png" width="50" alt="Proteus">
+  <img src="./imgs/simulide.png" width="50" alt="simulide">
+  <img src="./imgs/Labview.png" width="50" alt="Labview">
 </div>
 
 ### Operating systems
