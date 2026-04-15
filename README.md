@@ -14,16 +14,17 @@ and
 ### Coding
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash,vscode,unity" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash" />
 </p>
 ### IDEs, Engines and Virtual machines 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=vscode,unity"/>
- <img src="./imgs/atmel_studio.png" width="50" alt="atmel studio">
+ <img src="https://skillicons.dev/icons?i=vscode"/>
+ <img src="./imgs/sublime.png" width="50" alt="sublime">
  <img src="./imgs/Clion.png" width="50" alt="Clion">
  <img src="./imgs/PyCharm.png" width="50" alt="PyCharm">
- <img src="./imgs/sublime.png" width="50" alt="sublime">
  <img src="./imgs/VisualStudio.png" width="50" alt="VisualStudio">
+ <img src="./imgs/atmel_studio.png" width="50" alt="atmel studio">
+ <img src="https://skillicons.dev/icons?i=unity"/>
  <img src="./imgs/Virtual machine manager.png" width="50" alt="Virtual machine manager">
  <img src="./imgs/Vmware.png" width="50" alt="Vmware">
 </p>
