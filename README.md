@@ -18,6 +18,7 @@ and
 
 ### IDEs, Engines and Virtual machines 
 <p align="left">
+ <img src="./imgs/TeXstudio.png" width="50" alt="TeXstudio">
  <img src="https://skillicons.dev/icons?i=vscode"/>
  <img src="./imgs/sublime.png" width="50" alt="sublime">
  <img src="./imgs/Clion.png" width="50" alt="Clion">
