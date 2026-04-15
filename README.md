@@ -12,10 +12,10 @@ and
 ## Tools (not a professional in some of them, but I'm learning)
 
 ### Coding
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash" />
 </p>
+
 ### IDEs, Engines and Virtual machines 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=vscode"/>
