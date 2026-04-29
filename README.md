@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFFB&width=435&lines=Doing+stuff" /></a>
+</div>
+
 - I’m Islam Tarek
 - I’m interested in aerospace, wireless communications, linux distros and cybersecurity 
 - I love learning new tools
@@ -12,11 +16,13 @@ and
 ## Tools (not a professional in some of them, but I'm learning)
 
 ### Coding
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash" />
 </p>
 
-### IDEs, Engines and Virtual machines 
+### IDEs, Engines and Virtual machines
+
 <p align="left">
  <img src="./imgs/TeXstudio.png" width="50" alt="TeXstudio">
  <img src="./imgs/Zed.png" width="50" alt="Zed">
@@ -32,6 +38,7 @@ and
 </p>
 
 ### Electronics and systems
+
 <div align="left">
   <img src="./imgs/cadence.png" width="50" alt="Cadence">
   <img src="./imgs/KiCAD.png" width="50" alt="KiCAD">
