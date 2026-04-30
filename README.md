@@ -52,7 +52,7 @@ and
 ### Operating systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch,windows" />
+<img src="https://skillicons.dev/icons?i=debian,ubuntu,arch,windows" />
 </p>
 
 ### Project management
