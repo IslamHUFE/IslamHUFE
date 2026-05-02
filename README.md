@@ -1,6 +1,8 @@
 
 
-- I’m Islam Tarek
+- I’m <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=100&color=FFFFFFB&width=435&lines=Islam+Tarek" /></a>
+</div>
 - I’m interested in aerospace, wireless communications, linux distros and cybersecurity 
 - I love learning new tools
 - I’m currently studying electronics and communication engineering
@@ -60,7 +62,3 @@ and
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,obsidian,gcp" />
 </p>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFFB&width=435&lines=Doing+stuff" /></a>
-</div>
