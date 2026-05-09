@@ -5,7 +5,7 @@
 - I love learning new tools
 - I’m currently studying electronics and communication engineering
 - How to reach me --> Send me a message on this email  (islam.my01@gmail.com)
-- you can also Send me a message on my whatsapp number (    01551140777     )
+- you can also Send me a message on my whatsapp number (    +20 1551140777     )
 
 and
 
