@@ -12,7 +12,6 @@
 
 and
 
-![me](imgs/2.jpg)
 
 ## Tools (not a professional in some of them, but I'm learning)
 
