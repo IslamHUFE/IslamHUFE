@@ -10,7 +10,7 @@
 
 - you can also Send me a message on my whatsapp number (    +20 1551140777     )
 
-![](./imgs/2.png)
+![](./imgs/2.jpg)
 
 ## Tools (not a professional in some of them, but I'm learning)
 
