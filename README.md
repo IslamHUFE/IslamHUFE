@@ -16,7 +16,7 @@
 ### Coding
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,latex,bash" />
+<img src="https://skillicons.dev/icons?i=c,cs,python,matlab,latex,bash" />
 </p>
 
 ### IDEs, Engines and Virtual machines
