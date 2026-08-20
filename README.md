@@ -33,6 +33,7 @@
  <img src="https://skillicons.dev/icons?i=unity"/>
  <img src="./imgs/Virtual machine manager.png" width="50" alt="Virtual machine manager">
  <img src="./imgs/Vmware.png" width="50" alt="Vmware">
+ <img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
 ### Electronics and systems
