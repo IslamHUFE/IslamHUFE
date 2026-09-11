@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "85c2a2f0dfd462d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6369d6d1f3a54fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ee22c0098f348b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCB shield protection"
+            }
+          },
+          {
+            "id": "1d46d3096b0cae2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1d0b4e9dd56241e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e9481ac92f5ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e247724c8d2d16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8742192595e2c0eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "86dd964d119324a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.6297073364258
+  },
+  "right": {
+    "id": "b190d21026fa7460",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17d945de14e67f3",
+        "type": "tabs",
+        "dimension": 60.273972602739725,
+        "children": [
+          {
+            "id": "c989ac3c503c16ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tags/imgs/CH224K.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fb102f411b5f085a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4b9e7649640fc5eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "264427408df44de6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8ff4b544af93d3ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tags/imgs/CH224K.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a6739726e401731e",
+        "type": "tabs",
+        "dimension": 39.726027397260275,
+        "children": [
+          {
+            "id": "86f1c670f53cc14d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d4ee22c0098f348b",
+  "lastOpenFiles": [
+    "ملاحظاتي/PCB/PSU/Power input/USB protection.md",
+    "Tags/imgs/Pasted image 20260827110057.png",
+    "Tags/imgs/CH224K.png",
+    "Tags/imgs/CH224K table.png",
+    "Tags/imgs/signal rise and transmisstion line threshold 2.png",
+    "Tags/imgs/Diff pair 2.png",
+    "Tags/imgs/Diff pair.png",
+    "Tags/imgs/signal rise and transmisstion line threshold.png",
+    "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
+    "ملاحظاتي/Digital IC Design/FPGA/Verilog HDL/Named mapping.md",
+    "Tags/tags/HDMI.md",
+    "Tags/tags/Digital IC Design.md",
+    "Tags/tags/Verilog.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/when dose a wire become a TL.md",
+    "Tags/imgs/Pasted image 20260907131911.png",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
+    "ملاحظاتي/Digital IC Design/FPGA/Verilog HDL",
+    "ملاحظاتي/Digital IC Design/FPGA",
+    "ملاحظاتي/Digital IC Design",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs controlled impedence.md",
+    "Tags/imgs/Pasted image 20260830205434.png",
+    "ملاحظاتي/PCB/Layers and ground mapping/Layers count consederations.md",
+    "ملاحظاتي/PCB/High speed/Protection",
+    "ملاحظاتي/PCB/Layers and ground mapping",
+    "Tags/imgs/Pasted image 20260828151148.png",
+    "Tags/tags/USB.md",
+    "Tags/tags/Barrel jack.md",
+    "Tags/tags/Diode protection.md",
+    "Tags/tags/Signal integrity.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity",
+    "ملاحظاتي/PCB/PSU/Power input/USB output voltage controle.md",
+    "ملاحظاتي/PCB/KiCad/Untitled",
+    "ملاحظاتي/PCB/KiCad",
+    "ملاحظاتي/PCB/PSU/Regulators/Liner regulators",
+    "ملاحظاتي/PCB/PSU/Regulators/Buck converters",
+    "ملاحظاتي/PCB/PSU/Untitled.md",
+    "ملاحظاتي/PCB/PSU/Power input/Barrel jack power input.md",
+    "Templates/الإشارة.md",
+    "Templates/الملاحظة.md",
+    "Tags/tags/PSU.md",
+    "Tags/tags/transmisstion line.md",
+    "hi.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
