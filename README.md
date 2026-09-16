@@ -35,7 +35,7 @@
  <img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
-### Electronics and systems
+### Electronics and systems and other softwares
 
 <div align="left">
   <img src="./imgs/cadence.png" width="50" alt="Cadence">
@@ -47,7 +47,9 @@
   <img src="./imgs/Proteus.png" width="50" alt="Proteus">
   <img src="./imgs/simulide.png" width="50" alt="simulide">
   <img src="./imgs/Labview.png" width="50" alt="Labview">
+  <img src="./imgs/FreeCAD.webp" width="50" alt="FreeCAD">
 </div>
+
 
 ### Operating systems
 
