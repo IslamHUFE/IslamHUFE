@@ -12,6 +12,8 @@
 
 ## Tools (not a professional in some of them, but I'm learning)
 
+<img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/output/snake.svg" alt="Snake animation" />
+
 ### Coding
 
 <p align="left">
