@@ -10,9 +10,10 @@
 
 - you can also Send me a message on my whatsapp number (    +20 1551140777     )
 
-## Tools (not a professional in some of them, but I'm learning)
 
-<img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/output/snake.svg" alt="Snake animation" />
+
+
+## Tools (not a professional in some of them, but I'm learning)
 
 ### Coding
 
