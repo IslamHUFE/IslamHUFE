@@ -101,3 +101,5 @@
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ssdacyneifhxs7r3hhshjgkpwq)
