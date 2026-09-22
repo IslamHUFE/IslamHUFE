@@ -10,6 +10,16 @@
 
 - you can also Send me a message on my whatsapp number (    +20 1551140777     )
 
+  <div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 <img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/output/snake.svg" alt="Snake animation" />
 
 
