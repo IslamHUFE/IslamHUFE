@@ -102,9 +102,4 @@
   <img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31ssdacyneifhxs7r3hhshjgkpwq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ssdacyneifhxs7r3hhshjgkpwq&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
