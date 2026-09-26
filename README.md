@@ -41,9 +41,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
   </a>
 </div>
-
+<!--
 <img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/output/snake.svg" alt="Snake animation" />
-
+-->
 
 ## Tools
 
@@ -97,9 +97,10 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,obsidian,gcp" />
 </p>
-
+<!--
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/IslamHUFE/IslamHUFE/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+-->
 
 
