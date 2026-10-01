@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
+                "file": "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCB shield protection"
+              "title": "Interfaces max lengths"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
+                "file": "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -219,6 +219,11 @@
   },
   "active": "d4ee22c0098f348b",
   "lastOpenFiles": [
+    "ملاحظاتي/PCB/High speed/Signal integrity/when dose a wire become a TL.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs controlled impedence.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs.md",
+    "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
     "ملاحظاتي/PCB/PSU/Power input/USB protection.md",
     "Tags/imgs/Pasted image 20260827110057.png",
     "Tags/imgs/CH224K.png",
@@ -227,18 +232,14 @@
     "Tags/imgs/Diff pair 2.png",
     "Tags/imgs/Diff pair.png",
     "Tags/imgs/signal rise and transmisstion line threshold.png",
-    "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
     "ملاحظاتي/Digital IC Design/FPGA/Verilog HDL/Named mapping.md",
     "Tags/tags/HDMI.md",
     "Tags/tags/Digital IC Design.md",
     "Tags/tags/Verilog.md",
-    "ملاحظاتي/PCB/High speed/Signal integrity/when dose a wire become a TL.md",
     "Tags/imgs/Pasted image 20260907131911.png",
-    "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
     "ملاحظاتي/Digital IC Design/FPGA/Verilog HDL",
     "ملاحظاتي/Digital IC Design/FPGA",
     "ملاحظاتي/Digital IC Design",
-    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs controlled impedence.md",
     "Tags/imgs/Pasted image 20260830205434.png",
     "ملاحظاتي/PCB/Layers and ground mapping/Layers count consederations.md",
     "ملاحظاتي/PCB/High speed/Protection",
@@ -248,7 +249,6 @@
     "Tags/tags/Barrel jack.md",
     "Tags/tags/Diode protection.md",
     "Tags/tags/Signal integrity.md",
-    "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs.md",
     "ملاحظاتي/PCB/High speed/Signal integrity",
     "ملاحظاتي/PCB/PSU/Power input/USB output voltage controle.md",
     "ملاحظاتي/PCB/KiCad/Untitled",
