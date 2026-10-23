@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
+                "file": "ملاحظاتي/PCB/PSU/Power input/USB output voltage controle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfaces max lengths"
+              "title": "USB output voltage controle"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
+                "file": "ملاحظاتي/PCB/PSU/Power input/USB output voltage controle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -219,8 +219,8 @@
   },
   "active": "d4ee22c0098f348b",
   "lastOpenFiles": [
-    "ملاحظاتي/PCB/High speed/Signal integrity/when dose a wire become a TL.md",
     "ملاحظاتي/PCB/High speed/Signal integrity/Interfaces max lengths.md",
+    "ملاحظاتي/PCB/High speed/Signal integrity/when dose a wire become a TL.md",
     "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs controlled impedence.md",
     "ملاحظاتي/PCB/High speed/Signal integrity/Diffrential pairs.md",
     "ملاحظاتي/PCB/High speed/Protection/PCB shield protection.md",
