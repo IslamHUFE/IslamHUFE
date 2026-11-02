@@ -68,6 +68,7 @@
  <img src="./imgs/Virtual machine manager.png" width="50" alt="Virtual machine manager">
  <img src="./imgs/Vmware.png" width="50" alt="Vmware">
  <img src="https://skillicons.dev/icons?i=docker"/>
+ <img src="./imgs/STM32CUBEMX.png" width="50" alt="STM32CUBEMX.png">
 </p>
 
 ### Electronics and systems and other softwares
